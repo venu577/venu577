@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Bonkuri Venu**
 
-**AWS DevOps Engineer | 5 Years Experience | CI/CD | Terraform | Kubernetes (EKS) | GitHub Actions | Jenkins**
+**DevOps Engineer | 5 Years Experience | CI/CD | Terraform | Kubernetes (EKS) | GitHub Actions | Jenkins**
 
 I am a passionate **AWS DevOps Engineer** with hands-on experience delivering cloud-native, automated, and scalable solutions across **Healthcare** and **E-Commerce** domains. I specialize in building secure infrastructure, container orchestration, CI/CD automation, monitoring solutions, and cloud deployments with a strong focus on reliability and performance.
 
