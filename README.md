@@ -7,20 +7,22 @@ I am a passionate **AWS DevOps Engineer** with hands-on experience delivering cl
 ---
 
 ## 🚀 **About Me**
-- 🔧 4+ years of experience in **AWS, DevOps & Cloud Engineering**
+- 🔧 5+ years of experience in **AWS, Azure, Mulesoft, DevOps & Cloud Engineering**
 - ⚙️ Strong in **CI/CD automation** using GitHub Actions, Jenkins & AWS CodePipeline
-- ☸️ Expert in deploying microservices on **Amazon EKS (Kubernetes)**
+- ☸️ Expert in deploying microservices on **Kops and AWS EKS (Kubernetes)**
 - 🧱 Infrastructure-as-Code using **Terraform & CloudFormation**
 - 📊 Monitoring with **Prometheus, Grafana & CloudWatch**
 - 🐳 Skilled in **Docker**, Helm & containerized deployments
 - 🔐 Experience in **HIPAA-ready** secure architectures (Healthcare projects)
-- 🛒 Domain experience: **Healthcare** & **E-Commerce**
+- 🛒 Domain experience: **Oil & Gas | Enterprise Integration | Cloud & DevOps | Business Process Automation**
 
 ---
 
 ## 🛠️ **Tech Stack**
 ### **Cloud**
 - AWS (EC2, EKS, IAM, VPC, Route53, ALB/NLB, RDS, S3)
+- Mulesoft (cloudhub 2.0)
+- Azure
 
 ### **CI/CD**
 - GitHub Actions  
